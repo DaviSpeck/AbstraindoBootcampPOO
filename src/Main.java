@@ -20,7 +20,8 @@ public class Main {
         curso2.setCargaHoraria(4);
 
         // Criando Objeto Curso a partir do pai Conteudo (POLIMORFISMO)
-        // Conteudo conteudo = new Curso();
+        // Conteudo conteudo1 = new Curso();
+        // Conteudo conteudo2 = new Mentoria();
 
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("mentoria de java");
