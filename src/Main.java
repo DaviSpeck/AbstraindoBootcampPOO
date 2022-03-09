@@ -19,6 +19,8 @@ public class Main {
         curso2.setDescricao("descrição curso js");
         curso2.setCargaHoraria(4);
 
+        // Criando Objeto Curso a partir do pai Conteudo (POLIMORFISMO)
+        // Conteudo conteudo = new Curso();
 
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("mentoria de java");
